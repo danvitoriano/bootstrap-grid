@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-grid",
+  "version": "1.0.0",
+  "description": "bootstrap grid tes",
+  "main": "index.html",
+  "dependencies": {
+    "bower": "^1.7.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danvitoriano/bootstrap-grid.git"
+  },
+  "author": "Danilo Vitoriano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danvitoriano/bootstrap-grid/issues"
+  },
+  "homepage": "https://github.com/danvitoriano/bootstrap-grid#readme"
+}
