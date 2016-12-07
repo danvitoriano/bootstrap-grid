@@ -1,6 +1,6 @@
 {
-  "name": "bootstrap-grid",
-  "version": "1.0.0",
+  "name": "oiideias",
+  "version": "1.0.6",
   "description": "bootstrap grid tes",
   "main": "index.html",
   "dependencies": {
